@@ -11,7 +11,7 @@ import SwiftUI
 struct TSAezakmiGroupApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RegistrationView()
         }
     }
 }
