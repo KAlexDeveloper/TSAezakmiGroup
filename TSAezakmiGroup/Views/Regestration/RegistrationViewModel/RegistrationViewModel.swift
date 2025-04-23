@@ -7,6 +7,7 @@
 
 import Foundation
 
+
 final class RegistrationViewModel {
     
     func registerUser(login: String, password: String) -> (success: Bool, error: String?) {
